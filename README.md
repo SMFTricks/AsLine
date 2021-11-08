@@ -18,4 +18,4 @@
 * You can install AsLine under Themes and Layout in your forum administration.
 
 ## Demo Online
-You can find a demo for this theme on SMF Tricks: [Demo](http://demo.smftricks.com/index.php?theme=40)
+You can find a demo for this theme on SMF Tricks: [Demo](https://demo.smftricks.com/index.php?theme=40)
